@@ -1,15 +1,53 @@
+h3 {
+  text-align: center;
+
+}
+
+.back-trans{
+    background-color:transparent;
+}
+
+.back-light-blue{
+  background-color: #E5F3F4;
+}
+
+.back-navy{
+  background-color: #1c2224;
+}
+
+.pad-vert{
+  padding-top: 100px;
+   padding-bottom: 150px;
+}
+
+.back-white{
+  background-color: transparent;
+}
+p {
+  text-align: center;
+}
+
 .font-white{
   color: white;
 
 }
 
-.laptop{
+.font-blue{
+  color: #37becc;
+}
+
+/*.laptop{
   background-image: url('../images/laptop.png');
   background-size: cover;
       background-position: center;
-}
+}*/
 .back-1 {
     background-image: url('../images/background-1.jpg');
+    background-size: cover;
+
+}
+.back-2 {
+    background-image: url('../images/background-2.jpg');
     background-size: cover;
 
 }
