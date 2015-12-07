@@ -1,0 +1,38 @@
+.font-white{
+  color: white;
+
+}
+
+.laptop{
+  background-image: url('../images/laptop.png');
+  background-size: cover;
+      background-position: center;
+}
+.back-1 {
+    background-image: url('../images/background-1.jpg');
+    background-size: cover;
+
+}
+
+.btn-green {
+  display: inline;
+  background-color: #84ce15;
+}
+
+.btn-pink {
+  display: inline;
+  background-color: #ed1a7b;
+}
+
+
+li {
+  background-color: #37becc;
+}
+
+li a {
+color: #F2FFF2;
+
+}
+.top-bar {
+  background-color: #37becc;
+},
